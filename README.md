@@ -2,7 +2,7 @@
 - 🔭 cursando analise e desenvolvimento de sistemas/senai
 - 🌱 me interesso pela area de back end
 - 👯 conhecimento prévio em html css e js e python
-- 🤔 16 anos
+- 🤔 17 anos
 - 💬 amo codar!
 <div align="center">
   <a href="https://github.com/joaolima16">
