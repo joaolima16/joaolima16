@@ -1,7 +1,7 @@
 ### ola eu sou o joão! 👋
 - 🔭 cursando analise e desenvolvimento de sistemas/senai
 - 🌱 me interesso pela area de back end
-- 👯 conhecimento prévio em html css e js e python
+- 👯 Conhecimentos => html,css,javascript,python,react,c#
 - 🤔 17 anos
 - 💬 amo codar!
 <div align="center">
