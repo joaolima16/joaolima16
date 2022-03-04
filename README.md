@@ -6,8 +6,8 @@
 - 💬 amo codar!
 <div align="center">
   <a href="https://github.com/joaolima16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima16&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima16&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,8 +25,7 @@
     <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaolima16}/count.svg" /></p> 
-<br></div>
+      <br></div>
   <div align="center">  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b80000&height=120&section=footer"/>
-
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00060f&height=180&section=header&text=Seja Bem Vindo Ao GitHub Do João&fontSize=30&fontColor=08bf0e&animation=scaleIn&fontAlignY=35"/>
+    </div>
