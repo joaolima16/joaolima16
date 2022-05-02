@@ -27,6 +27,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaolima16}/count.svg" /></p> 
       <br></div>
-  <div align="center">  
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=160059&height=180&section=header&text=Seja Bem Vindo Ao GitHub Do João&fontSize=30&fontColor=08bf0e&animation=scaleIn&fontAlignY=35"/>
-    </div>
+ 
