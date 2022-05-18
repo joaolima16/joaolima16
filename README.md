@@ -1,5 +1,5 @@
 ### ola eu sou o joão! 👋
-- 🔭 cursando analise e desenvolvimento de sistemas/senai
+- 🔭 cursando desenvolvimento de sistemas/senai
 - 🌱 me interesso pela area de back end
 - 👯 Hard Skills => html, css, javascript, python, react, c#
 - 🤔 17 anos
@@ -19,8 +19,7 @@
 </div>
   <div> 
   <a href="https://www.instagram.com/jvitor_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaovitordlg23101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2500?logoColor=dark%26project=%26recentMS=0%26showProject=true" />
+  <a href = "mailto:joaovitordlg23101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-lima-goncalves-66ba67220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
     <div align="center">
