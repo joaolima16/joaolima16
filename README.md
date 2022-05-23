@@ -5,7 +5,8 @@
 - 🤔 17 anos
 - 💬 amo codar!
 - Stacks
-## Stacks
+## Tools
+
 ### Back-end
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
