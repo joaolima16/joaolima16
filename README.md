@@ -17,7 +17,7 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Joaolima-contributions](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)]
+![Joaolima-contributions](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)
 <div align="center">
   <a href="https://github.com/joaolima16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
