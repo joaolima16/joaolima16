@@ -1,6 +1,6 @@
 ### ola eu sou o joão! 👋
 - 🔭 cursando desenvolvimento de sistemas/senai
-- 🌱 me interesso pela area de back end
+- 🌱 pretendo atuar na área de desenvolvimento web back-end
 - 👯 Hard Skills => html, css, javascript, python, react, c#, NodeJs, php
 - 🤔 17 anos
 - 💬 amo codar!
