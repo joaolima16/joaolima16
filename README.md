@@ -1,4 +1,4 @@
-### ola eu sou o joão! 👋
+### ola eu sou o João! 👋
 - 🔭 cursando desenvolvimento de sistemas/senai
 - 🌱 pretendo atuar na área de desenvolvimento web back-end
 - 👯 Hard Skills => html, css, javascript, python, react, c#, NodeJs, php
