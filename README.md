@@ -1,5 +1,5 @@
 ### ola eu sou o joão! 👋
-**cursando desenvolvimento de sistemas na instituição SENAI 2/3**
+**cursando desenvolvimento de sistemas na instituição SENAI 3/3**
 -  pretendo atuar na área de desenvolvimento web back-end
 -  17 anos
 - Em busca de oportunidades no mercado de trabalho
