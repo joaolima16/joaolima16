@@ -4,7 +4,7 @@
 
 🔭 Já desenvolvi alguns projetos interessantes como: Sistema de gerenciamento de patrimônios, dashboard de criptomoedas etc. Nesses projetos atuei como desenvolvedor Back-end.
 
-💬 Atualmente cursando Análise e desenvolvimento de sistemas na instutuição Senac.
+💬 Atualmente cursando Análise e desenvolvimento de sistemas na instituição Senac.
 
 ----
 
