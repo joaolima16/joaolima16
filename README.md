@@ -3,6 +3,7 @@
 -  Desenvolvedor Web Back-end
 -  Recem formado no curso técnico de Desenvolvimento De Sistemas
 - Em busca de oportunidades no mercado de trabalho
+- Graduação em Análise e Desenvolvimento De Sistemas 1/5
 ## Tools
 
 <div style="display:inline-block"  >
