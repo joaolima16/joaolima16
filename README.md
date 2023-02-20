@@ -1,44 +1,27 @@
-### ola eu sou o joão! 👋
--  Tenho 18 anos
--  Desenvolvedor Web Back-end
--  Recem formado no curso técnico de Desenvolvimento De Sistemas
-- Em busca de oportunidades no mercado de trabalho
-- Graduação em Análise e Desenvolvimento De Sistemas 1/5
-## Tools
+## 💜 Olá, meu nome é <strong>João!</strong>
 
-<div style="display:inline-block"  >
+> Estudo programação a dois anos, me interesso muito pela área e estou em busca da minha primeira oportunidade como desenvolvedor.
 
-### Stacks com mais conhecimento
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   alt="node"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  alt="react"/>
+🔭 Já desenvolvi alguns projetos interessantes como: Sistema de gerenciamento de patrimônios, dashboard de criptomoedas etc. Nesses projetos atuei como desenvolvedor Back-end.
 
+💬 Atualmente cursando Análise e desenvolvimento de sistemas na instutuição Senac.
 
+----
 
-### Stacks utilizadas no momento 
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   alt="node"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"   alt="mongoDB"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  alt="react"/>
-  
-### Back-end
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  alt="python"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="Csharp"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP"/>
-
-
-### Front-end
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="CSS"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="HTMl"/>
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  alt="Bootstrap"/>
-
-### Banco de dados
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   alt="MySql"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  alt="SqlServer"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"   alt="mongoDB"/>
+## 🚀 Minhas Skills
+<div align="center">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32"  padding="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 </div>
 
-
+---
+## ⭐ Informações sobre minha conta GitHub
 <div align="center">
   <a href="https://github.com/joaolima16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -46,7 +29,8 @@
     
 </div>
 
-
+ ---
+ ## Formas de contato
   <div align="center"> 
   <a href="https://www.instagram.com/jvitor_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovitordlg23101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
