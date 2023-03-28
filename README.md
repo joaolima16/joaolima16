@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
 
-> Estudo programação a dois anos, me interesso muito pela área e estou em busca da minha primeira oportunidade como desenvolvedor.
+> Estudo programação há dois anos, me interesso muito pela área e estou em busca da minha primeira oportunidade como desenvolvedor.
 
 🔭 Já desenvolvi alguns projetos interessantes como: Sistema de gerenciamento de patrimônios, dashboard de criptomoedas etc. Nesses projetos atuei como desenvolvedor Back-end.
 
