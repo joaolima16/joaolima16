@@ -1,9 +1,8 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
 
-> Estudo programação há dois anos, me interesso muito pela área e estou em busca da minha primeira oportunidade como desenvolvedor.
+> Sou um entusiasta da tecnologia, apaixonado por programação. Comecei na programação faz 3 anos desde então venho estudando diariamente e me preparando para estar apto para a minha tão sonhada primeira vaga como Desenvolvedor .
 
-🔭 Já desenvolvi alguns projetos interessantes como: Sistema de gerenciamento de patrimônios, dashboard de criptomoedas etc. Nesses projetos atuei como desenvolvedor Back-end.
-
+🔭 Já desenvolvi diversos projetos acadêmicos e um projeto profissional que se consiste no site da empresa na qual trabalho.
 💬 Atualmente cursando Análise e desenvolvimento de sistemas na instituição Senac.
 
 ----
