@@ -21,10 +21,8 @@
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
-<div align="center">
-  <a href="https://github.com/joaolima16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima16&layout=compact&langs_count=7&theme=transparent"/>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaolima16&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolima16&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
     
 </div>
 
@@ -40,7 +38,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/joaolima16/count.svg" /></p> 
       <br></div>
 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=joaolima16&row=1&column=6&theme=dark&margin-w=15&margin-h=15"/>
+  </div>
   
+
+  
+
   
 
  
