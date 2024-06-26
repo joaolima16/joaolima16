@@ -1,9 +1,12 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
 
-> Sou um entusiasta da tecnologia, apaixonado por programação. Comecei na programação faz 3 anos desde então venho estudando diariamente e me preparando para estar apto para a minha tão sonhada primeira vaga como Desenvolvedor .
+> Sou um entusiasta de tecnologia com uma paixão ardente por programação. Há três anos, comecei minha jornada no mundo da codificação e, desde então, estudo diariamente com um objetivo claro: conquistar minha primeira vaga como Desenvolvedor.
 
-🔭 Já desenvolvi diversos projetos acadêmicos e um projeto profissional que se consiste no site da empresa na qual trabalho.
-💬 Atualmente cursando Análise e desenvolvimento de sistemas na instituição Senac.
+🔭 Durante esse período, tive a oportunidade de criar diversos projetos acadêmicos, além de um projeto profissional significativo: o site da empresa onde trabalho. Cada projeto foi uma oportunidade de aprendizado e crescimento, aprimorando minhas habilidades e ampliando meu conhecimento.
+
+💬 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac, uma experiência que tem sido fundamental para meu desenvolvimento profissional.
+
+🚀 Além disso, estou me especializando em Java Spring Boot, com o objetivo de dominar essa poderosa ferramenta e desenvolver aplicações robustas e escaláveis. Minha dedicação e compromisso com a excelência me impulsionam a buscar sempre o melhor, e estou ansioso para contribuir e fazer a diferença no mundo da tecnologia.
 
 ----
 
@@ -38,13 +41,17 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/joaolima16/count.svg" /></p> 
       <br></div>
 
+
+
+
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=joaolima16&row=1&column=6&theme=dark&margin-w=15&margin-h=15"/>
   </div>
   
 
-  
+
+ 
 
   
 
