@@ -26,7 +26,12 @@
 ## ⭐ Informações sobre minha conta GitHub
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaolima16&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolima16&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-    
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima16&layout=compact&langs_count=20&theme=dark&card_width=370)
+
 </div>
 
  ---
