@@ -1,15 +1,12 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
 
-> Sou um entusiasta de tecnologia com uma paixão ardente por programação. Há três anos, comecei minha jornada no mundo da codificação e, desde então, estudo diariamente com um objetivo claro: conquistar minha primeira vaga como Desenvolvedor.
+> Sou apaixonado por tecnologia e programação, com três anos de estudos intensos e foco em evolução constante. Durante esse tempo, desenvolvi projetos acadêmicos e um site profissional para a empresa onde trabalho.
 
-🔭 Durante esse período, tive a oportunidade de criar diversos projetos acadêmicos, além de um projeto profissional significativo: o site da empresa onde trabalho. Cada projeto foi uma oportunidade de aprendizado e crescimento, aprimorando minhas habilidades e ampliando meu conhecimento.
+💻 Atualmente, sou desenvolvedor full-stack na Zanthus, atuando com Laravel, Docker, React e Kotlin. Também estou cursando Análise e Desenvolvimento de Sistemas no Senac, ampliando minhas habilidades e conhecimentos.
 
-💬 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac, uma experiência que tem sido fundamental para meu desenvolvimento profissional.
-
-🚀 Além disso, estou me especializando em Java Spring Boot, com o objetivo de dominar essa poderosa ferramenta e desenvolver aplicações robustas e escaláveis. Minha dedicação e compromisso com a excelência me impulsionam a buscar sempre o melhor, e estou ansioso para contribuir e fazer a diferença no mundo da tecnologia.
+🚀 Comprometido com a excelência, estou sempre pronto para contribuir e fazer a diferença no mundo da tecnologia!
 
 ----
-
 ## 🚀 Main Skills
 <div align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
