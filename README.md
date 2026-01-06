@@ -1,9 +1,7 @@
 ## 💜 Olá, meu nome é <strong>João!</strong>
 
 > Sou apaixonado por tecnologia e programação, com três anos de estudos intensos e foco em evolução constante. Durante esse tempo, desenvolvi projetos acadêmicos e um site profissional para a empresa onde trabalho.
-
-💻 Atualmente, sou desenvolvedor full-stack na Zanthus, atuando com Laravel, Docker, React e Kotlin. Também estou cursando Análise e Desenvolvimento de Sistemas no Senac, ampliando minhas habilidades e conhecimentos.
-
+> 
 🚀 Comprometido com a excelência, estou sempre pronto para contribuir e fazer a diferença no mundo da tecnologia!
 
 ----
