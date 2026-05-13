@@ -8,7 +8,7 @@ Desenvolvedor com experiência em sistemas web fullstack, com foco atual em back
 
 ## 🚀 Featured Projects
 
-### [YAMAM-PI — Inventory Management System](https://github.com/joaolima16)
+### [YAMAM-PI — Inventory Management System](https://github.com/joaolima16](https://github.com/joaolima16/YAMAM_PI)
 Sistema de gestão de inventário fullstack desenvolvido como projeto acadêmico em equipe, onde fui responsável por todo o backend.
 - **Backend:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · MySQL
 - **Frontend:** React · TypeScript
