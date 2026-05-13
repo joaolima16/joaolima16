@@ -1,26 +1,53 @@
 # Hi 👋, I'm João Vitor De Lima
 
-### A software developer with experience in React and TypeScript, currently focusing on Java backend
+### Full Stack Developer | Java · Spring Boot · React · TypeScript
 
+Desenvolvedor com experiência em sistemas web fullstack, com foco atual em backend Java. Já trabalhei em ambiente profissional e acadêmico com APIs REST, autenticação JWT, bancos relacionais e interfaces React/TypeScript.
 
-- 🌱 I'm currently learning **Java, SQL, Spring Boot, Node.Js**
+---
 
-- 💬 Ask me about **Desenvolvimento Web, React, Typescript, Java, Spring boot**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **joaovitordlg23101@gmail.com**
+### [YAMAM-PI — Inventory Management System](https://github.com/joaolima16)
+Sistema de gestão de inventário fullstack desenvolvido como projeto acadêmico em equipe, onde fui responsável por todo o backend.
+- **Backend:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · MySQL
+- **Frontend:** React · TypeScript
+- Autenticação stateless com JWT, controle de acesso por roles, modelagem relacional completa
 
-- 👨‍💻 All of my projects are available at **[https://prototipo-portfolio.vercel.app/](https://prototipo-portfolio.vercel.app/)**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1VQ4VkzwqHzJTfC-R-L74QOfFNA9B0s5J/view?usp=sharing])**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+**Backend**
+Java · Spring Boot · Spring Security · JPA/Hibernate · PHP · Laravel · API REST
+
+**Frontend**
+React · TypeScript · JavaScript · HTML · CSS · Tailwind · Bootstrap · Sass
+
+**Banco de Dados**
+MySQL · PostgreSQL · SQL Server · SQLite
+
+**Ferramentas**
+Docker · Git · Postman · Linux · Figma
+
+---
+
+## 📫 Contact
+
+- **Email:** joaovitordlg23101@gmail.com
+- **LinkedIn:** [joao-lima-goncalves](https://www.linkedin.com/in/joao-lima-goncalves/)
+- **Portfolio:** [prototipo-portfolio.vercel.app](https://prototipo-portfolio.vercel.app/)
+- **Currículo:** [Google Drive](https://drive.google.com/file/d/1VQ4VkzwqHzJTfC-R-L74QOfFNA9B0s5J/view?usp=sharing)
+
+---
+
 <p align="left">
 <a href="https://github.com/joaolima16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="joaolima16" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/joao-lima-goncalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-lima-goncalves/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joao-lima-goncalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer">  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,php,react,ts,js,mysql,postgres,docker,git,tailwind,html,css,linux,postman" />
+</p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaolima16&theme=dark" alt="GitHub Streak" /></a>
-
